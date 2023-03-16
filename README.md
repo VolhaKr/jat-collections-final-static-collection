@@ -1,0 +1,1 @@
+# jat-collections-final-static-collection
